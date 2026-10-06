@@ -1,5 +1,7 @@
 # Customer Churn Prediction using Artificial Neural Networks (ANN)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-ann-ehgaofgvo69kognb9asvbe.streamlit.app/)
+
 An end-to-end Machine Learning web application that predicts whether a bank customer is likely to churn (exit) based on their demographic, financial, and account information. Built with TensorFlow/Keras, Scikit-learn, and Streamlit.
 
 ---
