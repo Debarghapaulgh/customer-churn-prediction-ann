@@ -1,0 +1,11 @@
+{
+  "include": [
+    "."
+  ],
+  "venvPath": "e:/vir",
+  "venv": "venv",
+  "extraPaths": [
+    "e:/vir/venv/Lib/site-packages"
+  ],
+  "reportMissingTypeStubs": false
+}
